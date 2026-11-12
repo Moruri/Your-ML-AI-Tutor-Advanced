@@ -1,0 +1,34 @@
+# Your ML / AI Tutor: Advanced - shared requirements
+#
+# This track assumes you already have the grounding from the first course
+# (or the equivalent). Python 3.10+ is enough to start; install the pins
+# below when a lesson tells you to:
+#
+#     python -m venv .venv
+#     source .venv/bin/activate        # Windows: .venv\Scripts\activate
+#     pip install -r requirements.txt
+#
+# Versions are pinned to a known-good minor range so lessons keep working.
+# CPU wheels are fine for every lesson in this course.
+
+# Data science basics
+numpy>=1.26,<3
+pandas>=2.2,<3
+matplotlib>=3.8,<4
+scipy>=1.12,<2
+
+# Classical machine learning
+scikit-learn>=1.4,<2
+
+# Deep learning foundations
+# (CPU wheels are fine for every lesson in this course.)
+torch>=2.2,<3
+
+# Modern AI (NLP, vision, generative / LLM basics)
+# These are heavier; later lessons will tell you when they are needed.
+transformers>=4.40,<5
+# datasets>=2.19,<4
+pillow>=10.3,<13
+
+# Nice-to-have for exploring interactively (optional)
+# jupyterlab>=4.1,<5
