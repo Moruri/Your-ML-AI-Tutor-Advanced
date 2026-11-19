@@ -2,18 +2,18 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Wednesday 2026-11-18
+**Last updated:** Thursday 2026-11-19
 
 ## Summary
 
 | Phase | Lessons | Published | Status |
 |-------|---------|-----------|--------|
-| 1 - Bayesian thinking, causality and experiments | 001-010 | 8 / 10 | In progress |
+| 1 - Bayesian thinking, causality and experiments | 001-010 | 10 / 10 | Complete |
 | 2 - Time series, recommenders and graphs | 011-020 | 0 / 10 | Not started |
 | 3 - Transformers, efficient training and reinforcement learning | 021-032 | 0 / 12 | Not started |
 | 4 - LLM internals, fine-tuning, agents and advanced RAG | 033-044 | 0 / 12 | Not started |
 | 5 - Large-scale data and the advanced capstone | 045-050 | 0 / 6 | Not started |
-| **Total** | **001-050** | **8 / 50** | In progress |
+| **Total** | **001-050** | **10 / 50** | In progress |
 
 ## Published lessons
 
@@ -27,14 +27,16 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 006 - Potential outcomes and causal questions | Tue 2026-11-17 | [`lessons/phase-1-bayesian-and-causal/lesson-006-potential-outcomes-and-causal-questions/`](../lessons/phase-1-bayesian-and-causal/lesson-006-potential-outcomes-and-causal-questions/) |
 | 007 - Randomised experiments and A/B tests | Wed 2026-11-18 | [`lessons/phase-1-bayesian-and-causal/lesson-007-randomised-experiments-and-ab-tests/`](../lessons/phase-1-bayesian-and-causal/lesson-007-randomised-experiments-and-ab-tests/) |
 | 008 - Confounding, graphs and what to adjust for | Wed 2026-11-18 | [`lessons/phase-1-bayesian-and-causal/lesson-008-confounding-graphs-and-what-to-adjust-for/`](../lessons/phase-1-bayesian-and-causal/lesson-008-confounding-graphs-and-what-to-adjust-for/) |
+| 009 - Quasi-experiments when you can't randomise | Thu 2026-11-19 | [`lessons/phase-1-bayesian-and-causal/lesson-009-quasi-experiments-when-you-cant-randomise/`](../lessons/phase-1-bayesian-and-causal/lesson-009-quasi-experiments-when-you-cant-randomise/) |
+| 010 - Mini-project: decide with uncertainty | Thu 2026-11-19 | [`lessons/phase-1-bayesian-and-causal/lesson-010-mini-project-decide-with-uncertainty/`](../lessons/phase-1-bayesian-and-causal/lesson-010-mini-project-decide-with-uncertainty/) |
 
 ## Next up
 
-Lessons **009** and **010**, on Thursday 2026-11-19.
+Lessons **011** and **012**, on Friday 2026-11-20.
 
 | Lesson | Path |
 |--------|------|
-| 009 - Quasi-experiments when you can't randomise | `lessons/phase-1-bayesian-and-causal/lesson-009-quasi-experiments-when-you-cant-randomise/` |
-| 010 - Mini-project: decide with uncertainty | `lessons/phase-1-bayesian-and-causal/lesson-010-mini-project-decide-with-uncertainty/` |
+| 011 - Time series as a modelling problem | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-011-time-series-as-a-modelling-problem/` |
+| 012 - Autoregression, stationarity and holdouts that don't cheat | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-012-autoregression-stationarity-and-holdouts-that-dont-cheat/` |
 
 The full plan is in [CURRICULUM.md](CURRICULUM.md).
