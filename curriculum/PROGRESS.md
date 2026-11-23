@@ -2,18 +2,18 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Friday 2026-11-20
+**Last updated:** Monday 2026-11-23
 
 ## Summary
 
 | Phase | Lessons | Published | Status |
 |-------|---------|-----------|--------|
 | 1 - Bayesian thinking, causality and experiments | 001-010 | 10 / 10 | Complete |
-| 2 - Time series, recommenders and graphs | 011-020 | 2 / 10 | In progress |
+| 2 - Time series, recommenders and graphs | 011-020 | 4 / 10 | In progress |
 | 3 - Transformers, efficient training and reinforcement learning | 021-032 | 0 / 12 | Not started |
 | 4 - LLM internals, fine-tuning, agents and advanced RAG | 033-044 | 0 / 12 | Not started |
 | 5 - Large-scale data and the advanced capstone | 045-050 | 0 / 6 | Not started |
-| **Total** | **001-050** | **12 / 50** | In progress |
+| **Total** | **001-050** | **14 / 50** | In progress |
 
 ## Published lessons
 
@@ -31,14 +31,16 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 010 - Mini-project: decide with uncertainty | Thu 2026-11-19 | [`lessons/phase-1-bayesian-and-causal/lesson-010-mini-project-decide-with-uncertainty/`](../lessons/phase-1-bayesian-and-causal/lesson-010-mini-project-decide-with-uncertainty/) |
 | 011 - Time series as a modelling problem | Fri 2026-11-20 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-011-time-series-as-a-modelling-problem/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-011-time-series-as-a-modelling-problem/) |
 | 012 - Autoregression, stationarity and holdouts that don't cheat | Fri 2026-11-20 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-012-autoregression-stationarity-and-holdouts-that-dont-cheat/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-012-autoregression-stationarity-and-holdouts-that-dont-cheat/) |
+| 013 - Exponential smoothing and classic forecasters | Mon 2026-11-23 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-013-exponential-smoothing-and-classic-forecasters/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-013-exponential-smoothing-and-classic-forecasters/) |
+| 014 - Features, exogenous signals and when ML helps a forecast | Mon 2026-11-23 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-014-features-exogenous-signals-and-when-ml-helps-a-forecast/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-014-features-exogenous-signals-and-when-ml-helps-a-forecast/) |
 
 ## Next up
 
-Lessons **013** and **014**, on Monday 2026-11-23.
+Lessons **015** and **016**, on Tuesday 2026-11-24.
 
 | Lesson | Path |
 |--------|------|
-| 013 - Exponential smoothing and classic forecasters | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-013-exponential-smoothing-and-classic-forecasters/` |
-| 014 - Features, exogenous signals and when ML helps a forecast | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-014-features-exogenous-signals-and-when-ml-helps-a-forecast/` |
+| 015 - Recommender systems: the problem and the traps | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-015-recommender-systems-the-problem-and-the-traps/` |
+| 016 - Collaborative filtering and matrix factorisation | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-016-collaborative-filtering-and-matrix-factorisation/` |
 
 The full plan is in [CURRICULUM.md](CURRICULUM.md).
