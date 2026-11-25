@@ -2,18 +2,18 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Tuesday 2026-11-24
+**Last updated:** Wednesday 2026-11-25
 
 ## Summary
 
 | Phase | Lessons | Published | Status |
 |-------|---------|-----------|--------|
 | 1 - Bayesian thinking, causality and experiments | 001-010 | 10 / 10 | Complete |
-| 2 - Time series, recommenders and graphs | 011-020 | 6 / 10 | In progress |
+| 2 - Time series, recommenders and graphs | 011-020 | 8 / 10 | In progress |
 | 3 - Transformers, efficient training and reinforcement learning | 021-032 | 0 / 12 | Not started |
 | 4 - LLM internals, fine-tuning, agents and advanced RAG | 033-044 | 0 / 12 | Not started |
 | 5 - Large-scale data and the advanced capstone | 045-050 | 0 / 6 | Not started |
-| **Total** | **001-050** | **16 / 50** | In progress |
+| **Total** | **001-050** | **18 / 50** | In progress |
 
 ## Published lessons
 
@@ -35,14 +35,16 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 014 - Features, exogenous signals and when ML helps a forecast | Mon 2026-11-23 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-014-features-exogenous-signals-and-when-ml-helps-a-forecast/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-014-features-exogenous-signals-and-when-ml-helps-a-forecast/) |
 | 015 - Recommender systems: the problem and the traps | Tue 2026-11-24 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-015-recommender-systems-the-problem-and-the-traps/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-015-recommender-systems-the-problem-and-the-traps/) |
 | 016 - Collaborative filtering and matrix factorisation | Tue 2026-11-24 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-016-collaborative-filtering-and-matrix-factorisation/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-016-collaborative-filtering-and-matrix-factorisation/) |
+| 017 - Content, implicit feedback and ranking losses | Wed 2026-11-25 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-017-content-implicit-feedback-and-ranking-losses/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-017-content-implicit-feedback-and-ranking-losses/) |
+| 018 - Graphs as data | Wed 2026-11-25 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-018-graphs-as-data/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-018-graphs-as-data/) |
 
 ## Next up
 
-Lessons **017** and **018**, on Wednesday 2026-11-25.
+Lessons **019** and **020**, on Thursday 2026-11-26.
 
 | Lesson | Path |
 |--------|------|
-| 017 - Content, implicit feedback and ranking losses | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-017-content-implicit-feedback-and-ranking-losses/` |
-| 018 - Graphs as data | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-018-graphs-as-data/` |
+| 019 - Graph models: labels, neighbours and embeddings | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-019-graph-models-labels-neighbours-and-embeddings/` |
+| 020 - Mini-project: forecast, recommend or connect | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-020-mini-project-forecast-recommend-or-connect/` |
 
 The full plan is in [CURRICULUM.md](CURRICULUM.md).
