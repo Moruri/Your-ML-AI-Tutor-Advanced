@@ -2,18 +2,18 @@
 
 What's published, and when. Two lessons every weekday, in order. No weekends.
 
-**Last updated:** Wednesday 2026-11-25
+**Last updated:** Thursday 2026-11-26
 
 ## Summary
 
 | Phase | Lessons | Published | Status |
 |-------|---------|-----------|--------|
 | 1 - Bayesian thinking, causality and experiments | 001-010 | 10 / 10 | Complete |
-| 2 - Time series, recommenders and graphs | 011-020 | 8 / 10 | In progress |
+| 2 - Time series, recommenders and graphs | 011-020 | 10 / 10 | Complete |
 | 3 - Transformers, efficient training and reinforcement learning | 021-032 | 0 / 12 | Not started |
 | 4 - LLM internals, fine-tuning, agents and advanced RAG | 033-044 | 0 / 12 | Not started |
 | 5 - Large-scale data and the advanced capstone | 045-050 | 0 / 6 | Not started |
-| **Total** | **001-050** | **18 / 50** | In progress |
+| **Total** | **001-050** | **20 / 50** | In progress |
 
 ## Published lessons
 
@@ -37,14 +37,16 @@ What's published, and when. Two lessons every weekday, in order. No weekends.
 | 016 - Collaborative filtering and matrix factorisation | Tue 2026-11-24 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-016-collaborative-filtering-and-matrix-factorisation/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-016-collaborative-filtering-and-matrix-factorisation/) |
 | 017 - Content, implicit feedback and ranking losses | Wed 2026-11-25 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-017-content-implicit-feedback-and-ranking-losses/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-017-content-implicit-feedback-and-ranking-losses/) |
 | 018 - Graphs as data | Wed 2026-11-25 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-018-graphs-as-data/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-018-graphs-as-data/) |
+| 019 - Graph models: labels, neighbours and embeddings | Thu 2026-11-26 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-019-graph-models-labels-neighbours-and-embeddings/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-019-graph-models-labels-neighbours-and-embeddings/) |
+| 020 - Mini-project: forecast, recommend or connect | Thu 2026-11-26 | [`lessons/phase-2-time-series-recommenders-and-graphs/lesson-020-mini-project-forecast-recommend-or-connect/`](../lessons/phase-2-time-series-recommenders-and-graphs/lesson-020-mini-project-forecast-recommend-or-connect/) |
 
 ## Next up
 
-Lessons **019** and **020**, on Thursday 2026-11-26.
+Lessons **021** and **022**, on Friday 2026-11-27.
 
 | Lesson | Path |
 |--------|------|
-| 019 - Graph models: labels, neighbours and embeddings | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-019-graph-models-labels-neighbours-and-embeddings/` |
-| 020 - Mini-project: forecast, recommend or connect | `lessons/phase-2-time-series-recommenders-and-graphs/lesson-020-mini-project-forecast-recommend-or-connect/` |
+| 021 - Attention from first principles | `lessons/phase-3-transformers-and-reinforcement-learning/lesson-021-attention-from-first-principles/` |
+| 022 - Multi-head attention and positional encodings | `lessons/phase-3-transformers-and-reinforcement-learning/lesson-022-multi-head-attention-and-positional-encodings/` |
 
 The full plan is in [CURRICULUM.md](CURRICULUM.md).
